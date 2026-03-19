@@ -3,8 +3,13 @@ title {
     color:aqua
 }
 head {
-    background-color: beige; 
+    background-color: beige;
+    font-family: "Times New Roman", Times, serif;
+ 
 }
 p {
     color:cadetblue;
+    font-family: "Times New Roman", Times, serif;
+
+
 }
