@@ -1,1 +1,10 @@
-test
+title {
+    p.dotted {border-style: dotted;}
+    color:aqua
+}
+head {
+    background-color: beige; 
+}
+p {
+    color:cadetblue;
+}
